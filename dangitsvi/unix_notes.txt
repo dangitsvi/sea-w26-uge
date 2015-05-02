@@ -1,0 +1,9 @@
+This is a for the git hub assignment.
+
+I did this assignment reletively late to see how much of the console and git commands I can remember, and how useful my notes are after moderate inactivity.
+
+console commands such as cd, ls, mkdir, and touch are easy to remember.
+
+The git commands are a bit harder to remember. The actual commands are easy to remember, but the execution is rough. While my notes had all the commands listed, the order of operations as well as the proper ediquette is something I didn't take notes on.
+
+it also took me a while to remember the command for my text editer.
